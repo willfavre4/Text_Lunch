@@ -1,0 +1,6 @@
+Python — imaplib IMAP example with Gmail :: https://yuji.wordpress.com/2011/06/22/python-imaplib-imap-example-with-gmail/
+IMAPLIB Documentation :: https://docs.python.org/2/library/imaplib.html
+Working with excel spreadsheets :: https://automatetheboringstuff.com/chapter12/
+Google Data Python Library :: https://developers.google.com/gdata/articles/python_client_lib
+Google sheets API :: https://developers.google.com/sheets/quickstart/python
+Google sheet to excel no g_data API :: http://stackoverflow.com/questions/3287651/download-a-spreadsheet-from-google-docs-using-python
